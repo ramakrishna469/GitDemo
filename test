@@ -1,3 +1,15 @@
+git init
+git remote add origin micropyramid.url
+git remote add rk naaa.url
+git pull origin develop
+
+work here
+
+git push rk featurebranch
+
+next --> goto your account repository and send pull request.
+
+
 hi,
 this is ramakrishna
 this is rk
